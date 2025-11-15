@@ -1,7 +1,7 @@
 {
     "success": true,
     "message": "Version is valid",
-    "current_version": "1.0.2",
-    "allowed_versions": ["1.0.2", "1.0.1"],
+    "current_version": "1.0.5",
+    "allowed_versions": ["1.0.5", "1.0.5"],
     "maintenance_mode": false
 }
