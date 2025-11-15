@@ -1,0 +1,7 @@
+{
+    "success": true,
+    "message": "Version is valid",
+    "current_version": "1.0.2",
+    "allowed_versions": ["1.0.2", "1.0.1"],
+    "maintenance_mode": false
+}
